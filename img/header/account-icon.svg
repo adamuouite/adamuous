@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .f10d5c85-427e-41eb-8318-27441ad26108 {
+        fill: #f6eeee;
+      }
+
+      .e3986b82-8e9f-4105-96bc-5a0c820be591 {
+        fill: #49444a;
+      }
+    </style>
+  </defs>
+  <g id="f7af1ede-01bc-43ba-b155-4421f07d0efe" data-name="Layer 2">
+    <g id="bbb8fa47-0c80-4bc2-9e7a-9f6b35033e75" data-name="Layer 1">
+      <circle class="f10d5c85-427e-41eb-8318-27441ad26108" cx="25" cy="25" r="25"/>
+      <g>
+        <circle class="e3986b82-8e9f-4105-96bc-5a0c820be591" cx="25" cy="15" r="10"/>
+        <ellipse class="e3986b82-8e9f-4105-96bc-5a0c820be591" cx="25" cy="35.35" rx="15" ry="6.69"/>
+      </g>
+    </g>
+  </g>
+</svg>

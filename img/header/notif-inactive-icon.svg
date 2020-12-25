@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .f4f621b5-8173-4cfd-b3d0-83aac7b5ee5a {
+        fill: #49444a;
+      }
+
+      .bdf04dfa-9651-44e8-9c9b-9f213f5f1d84 {
+        fill: none;
+        stroke: #f6eeee;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ac303c69-ef30-40bf-ac29-89d6921c13fb" data-name="Layer 2">
+    <g id="a8ba0f23-505f-4ced-9bfd-9d85f4bcbb2f" data-name="Layer 1">
+      <circle class="f4f621b5-8173-4cfd-b3d0-83aac7b5ee5a" cx="22.5" cy="22.5" r="22.5"/>
+      <g>
+        <path class="bdf04dfa-9651-44e8-9c9b-9f213f5f1d84" d="M36,29A19.1,19.1,0,0,1,35,23V18A12.87,12.87,0,0,0,23.76,5.08a12.18,12.18,0,0,0-5.18.57A12,12,0,0,0,14.1,8.28a12.28,12.28,0,0,0-3,4.19A12.6,12.6,0,0,0,10,17.53V23A18.92,18.92,0,0,1,9,29L7.55,33.37,8.74,35h8.77a5,5,0,0,0,10,0h8.76l1.19-1.65Z"/>
+        <line class="bdf04dfa-9651-44e8-9c9b-9f213f5f1d84" x1="27.5" y1="35.02" x2="17.51" y2="35.02"/>
+      </g>
+    </g>
+  </g>
+</svg>
