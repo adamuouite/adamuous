@@ -1,0 +1,30 @@
+@import "./breakpoints";
+@import "./lists";
+
+body {
+  margin: 0;
+}
+header {
+  @include list(space-around);
+  width: 100%;
+  position: fixed;
+  align-items: stretch;
+  background-color: lightblue;
+  flex-direction: row;
+  .header-list {
+    @include list(center);
+    padding: 1em;
+  }
+  .ban {
+    background: #001427;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 70px;
+  }
+  .left-nav {
+    position: relative;
+    left: 2.69%;
+    right: 77.15%;
+    top: 1.15%;
+    bottom: 49.23%;
+  }
+}
